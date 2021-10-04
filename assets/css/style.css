@@ -9,20 +9,29 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #444444;
 }
+sub,strong {
+  font-family: "Raleway", sans-serif;
+}
+p{
+  font-family: "Raleway", sans-serif;
+}
+h3{color:dodgerblue;}
 
 a {
+   font-family: "Raleway", sans-serif;
   color: dodgerblue;
+   text-decoration: none;
 }
 
 a:hover {
-  color: #ff724a;
+  color: green;
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 , {
   font-family: "Raleway", sans-serif;
 }
 
@@ -199,7 +208,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255, 255, 0.9);
   transition: 0.3s;
   font-size: 14px;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   font-weight: 600;
   padding: 0 3px;
@@ -488,7 +497,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 14px;
